@@ -28,6 +28,7 @@ python3 manage.py db upgrade
 ![](https://github.com/fish2018/flask-vue-template/blob/master/img/backend.jpg)
 
 在swagger页面创建用户admin/admin
+![](https://github.com/fish2018/flask-vue-template/blob/master/img/backend2.jpg)
 
 # 前端frontend
 
@@ -49,3 +50,9 @@ npm run dev
     host: '0.0.0.0',
     port: 9005,
 ```
+
+![](https://github.com/fish2018/flask-vue-template/blob/master/img/frontend.jpg)
+
+登录后
+
+![](https://github.com/fish2018/flask-vue-template/blob/master/img/frontend2.jpg)

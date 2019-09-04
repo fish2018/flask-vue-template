@@ -26,3 +26,26 @@ python3 manage.py db upgrade
 默认监听地址：host='0.0.0.0', port='5000' ，可以在app.py中修改
 
 ![](https://github.com/fish2018/flask-vue-template/blob/master/img/backend.jpg)
+
+在swagger页面创建用户admin/admin
+
+# 前端frontend
+
+使用方法：
+
+修改开发环境配置文件config/dev.env.js ，根据自己情况配置后端API地址，默认本机5000端口
+```
+BASE_API: '"http://127.0.0.1:5000/v1"'
+```
+
+启动
+```
+npm i
+npm run dev
+```
+
+默认 http://0.0.0.0:9005 ，在config/index.js中修改
+```
+    host: '0.0.0.0',
+    port: 9005,
+```

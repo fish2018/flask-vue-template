@@ -3,7 +3,7 @@ from app import create_app
 from app.models.base import Base
 from app.models.role import Role
 from app.models.user import User
-from flask_script import Manager
+from flask_script import Manager, Shell
 from flask_migrate import Migrate, MigrateCommand
 
 

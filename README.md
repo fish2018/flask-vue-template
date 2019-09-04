@@ -23,4 +23,6 @@ python3 manage.py db migrate -m "initial migration"
 python3 manage.py db upgrade
 ```
 
-启动程序后默认地址：http://127.0.0.1:5000/
+启动程序后默认地址：http://0.0.0.0:5000/ ，可以在app.py中修改
+
+![](https://github.com/fish2018/flask-vue-template/blob/master/img/backend.jpg)

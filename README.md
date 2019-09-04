@@ -51,8 +51,8 @@ npm run dev
     port: 9005,
 ```
 
-![](https://github.com/fish2018/flask-vue-template/blob/master/img/frontend.jpg)
+![](https://github.com/fish2018/flask-vue-template/blob/master/img/frontend.img)
 
 登录后
 
-![](https://github.com/fish2018/flask-vue-template/blob/master/img/frontend2.jpg)
+![](https://github.com/fish2018/flask-vue-template/blob/master/img/frontend2.img)
